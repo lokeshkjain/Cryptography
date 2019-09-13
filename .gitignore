@@ -1,0 +1,7 @@
+.DS_Store
+package-lock.json
+.settings/
+# JDT-specific
+.classpath
+.project
+.idea

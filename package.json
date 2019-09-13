@@ -1,0 +1,28 @@
+{
+  "name": "cryptography-js",
+  "version": "1.0.0",
+  "description": "To encrypt and decrypt the data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshkjain/cryptography-js.git"
+  },
+  "keywords": [
+    "cryptography",
+    "crypt",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": {
+    "name": "Lokesh Kumar Jain",
+    "email": "contact@lokeshkjain.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokeshkjain/cryptography-js/issues"
+  },
+  "homepage": "https://github.com/lokeshkjain/cryptography-js#readme"
+}
