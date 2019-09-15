@@ -1,6 +1,6 @@
-#How to encrypt and decrypt data in nodejs 
+# How to encrypt and decrypt data in nodejs 
 
-##Installation
+## Installation
 
 This is nodejs module which is using crypto module of nodejs.
 
@@ -8,7 +8,7 @@ This is nodejs module which is using crypto module of nodejs.
 $ npm install lkj-cryptography-js
 ```
 
-##Usage
+## Usage
 
 ```sh
 const crypto = require('lkj-cryptography-js')
