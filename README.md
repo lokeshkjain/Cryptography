@@ -15,7 +15,7 @@ const crypto = require('lkj-cryptography-js')
 
 let password = "setyourpasswordhere"
 
-let AES_Crypto = cryptography.AES_Crypto
+let AES_Crypto = crypto.AES_Crypto
 let encrypted_data = AES_Crypto.encryptData(password,'aes-128-cbc',"give your text here for encrypt tha data")
 console.log('encrypted data ',encrypted_data)
 
